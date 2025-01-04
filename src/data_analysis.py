@@ -1,6 +1,8 @@
 import pandas as pd
 import matplotlib.pyplot as plt
 import seaborn as sns
+import matplotlib.pyplot as plt
+
 
 # Load the dataset
 file_path = 'C:\\Users\\julio\\OneDrive - The Pennsylvania State University\\Desktop\\OptiMech\\OptiMech\\data\\energy_data.csv'
